@@ -9,7 +9,7 @@
       "electron-packager ./ rest-timer --platform=win32 --arch=x64 --version=1.7.9 --icon=package/icon.ico --overwrite"
   },
   "devDependencies": {
-    "electron": "1.7.9",
+    "electron": "9.2.1",
     "electron-packager": "9.1.0"
   },
   "dependencies": {
